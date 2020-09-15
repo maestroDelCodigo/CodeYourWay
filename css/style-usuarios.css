@@ -1,0 +1,22 @@
+.bg-custom {
+    background-image: url(./images/bg-1.jpg);
+    background-size: cover;
+    
+}
+.hv-100 {
+    height: 100vh;
+}
+.navbar-custom {
+    padding-left: 50%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    
+    margin-left: 300px;
+    background: wheat;
+  }
+  td {
+    border: 1px solid #444;
+  }
